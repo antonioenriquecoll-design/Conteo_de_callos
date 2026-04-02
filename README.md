@@ -17,7 +17,7 @@ El flujo de procesamiento digital de imágenes incluye:
 3.  **Refinamiento:** Aplicación de algoritmo **Watershed** para separar objetos próximos y limpieza morfológica (apertura).
 4.  **Calibración:** Automatizada mediante la **Transformada de Hough** para detectar el borde de la placa y establecer la escala real.
 
-## 📊 Resultados
+## Resultados
 * **Rendimiento:** El procesamiento en HSV es un 50% más rápido (~0,04 s/imagen) que el modo RGB adaptativo (~0,11 s/imagen).
 * **Dataset:** Validado con 16 imágenes digitales (muestras p100 a p133), detectando un total de 112 callos.
 
