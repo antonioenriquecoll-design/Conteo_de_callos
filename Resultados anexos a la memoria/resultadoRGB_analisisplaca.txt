@@ -1,0 +1,172 @@
+REPORTE DE CONTAJE AUTOMÁTICO - TEMÁTICA C
+Fecha/Hora: 2025-12-30 17:40:59
+Factor de escala: 1 px = 0.0025 mm2
+
+Parámetros utilizados:
+  AREA_MINIMA   = 300 px
+  DISK_ERODE    = 7
+  PEAK_FRAC     = 0.65
+  BG_DIL_ITERS  = 2
+  MERGE_DIST    = 25 px
+  CIRC_MIN      = 0.12
+  Modo WS       = watershed + seeds (DT picos + erosión)
+  Rango RGB (adapt): R[20–210], G[80–255], B[10–150]
+
+RESULTADOS POR IMAGEN:
+  Foto: p100.png | Detectados: 9 | Tiempo: 0.46s
+     Callo 1: 4923.0 px (12.308 mm2) | centroide=(348,93) | circ=0.398
+     Callo 2: 7062.0 px (17.655 mm2) | centroide=(226,115) | circ=0.346
+     Callo 3: 7593.0 px (18.983 mm2) | centroide=(43,124) | circ=0.531
+     Callo 4: 6522.0 px (16.305 mm2) | centroide=(357,254) | circ=0.492
+     Callo 5: 7015.0 px (17.538 mm2) | centroide=(213,261) | circ=0.551
+     Callo 6: 891.0 px (2.228 mm2) | centroide=(43,270) | circ=0.712
+     Callo 7: 8170.0 px (20.425 mm2) | centroide=(357,385) | circ=0.425
+     Callo 8: 5564.0 px (13.910 mm2) | centroide=(195,367) | circ=0.434
+     Callo 9: 6176.0 px (15.440 mm2) | centroide=(77,389) | circ=0.573
+
+  Foto: p101.png | Detectados: 9 | Tiempo: 0.14s
+     Callo 1: 7857.0 px (19.643 mm2) | centroide=(375,93) | circ=0.505
+     Callo 2: 6590.0 px (16.475 mm2) | centroide=(64,100) | circ=0.494
+     Callo 3: 7760.0 px (19.400 mm2) | centroide=(196,111) | circ=0.528
+     Callo 4: 5443.0 px (13.607 mm2) | centroide=(357,245) | circ=0.495
+     Callo 5: 6640.0 px (16.600 mm2) | centroide=(226,247) | circ=0.574
+     Callo 6: 3778.0 px (9.445 mm2) | centroide=(65,270) | circ=0.725
+     Callo 7: 6796.0 px (16.990 mm2) | centroide=(244,351) | circ=0.474
+     Callo 8: 6583.0 px (16.457 mm2) | centroide=(95,379) | circ=0.518
+     Callo 9: 5221.0 px (13.053 mm2) | centroide=(355,383) | circ=0.556
+
+  Foto: p102.png | Detectados: 4 | Tiempo: 0.10s
+     Callo 1: 6142.0 px (15.355 mm2) | centroide=(210,52) | circ=0.455
+     Callo 2: 6194.0 px (15.485 mm2) | centroide=(358,62) | circ=0.455
+     Callo 3: 5916.0 px (14.790 mm2) | centroide=(53,70) | circ=0.628
+     Callo 4: 6379.0 px (15.947 mm2) | centroide=(226,220) | circ=0.517
+
+  Foto: p103.png | Detectados: 8 | Tiempo: 0.10s
+     Callo 1: 3936.0 px (9.840 mm2) | centroide=(377,72) | circ=0.408
+     Callo 2: 5262.0 px (13.155 mm2) | centroide=(91,88) | circ=0.560
+     Callo 3: 3182.0 px (7.955 mm2) | centroide=(378,215) | circ=0.499
+     Callo 4: 6514.0 px (16.285 mm2) | centroide=(63,249) | circ=0.482
+     Callo 5: 2455.0 px (6.138 mm2) | centroide=(228,238) | circ=0.508
+     Callo 6: 5987.0 px (14.968 mm2) | centroide=(352,366) | circ=0.542
+     Callo 7: 7344.0 px (18.360 mm2) | centroide=(226,384) | circ=0.593
+     Callo 8: 2448.0 px (6.120 mm2) | centroide=(65,387) | circ=0.416
+
+  Foto: p110.png | Detectados: 6 | Tiempo: 0.08s
+     Callo 1: 6271.0 px (15.678 mm2) | centroide=(46,71) | circ=0.549
+     Callo 2: 4082.0 px (10.205 mm2) | centroide=(47,189) | circ=0.393
+     Callo 3: 2396.0 px (5.990 mm2) | centroide=(213,220) | circ=0.522
+     Callo 4: 2832.0 px (7.080 mm2) | centroide=(341,245) | circ=0.284
+     Callo 5: 2375.0 px (5.938 mm2) | centroide=(347,343) | circ=0.302
+     Callo 6: 2385.0 px (5.963 mm2) | centroide=(230,363) | circ=0.288
+
+  Foto: p111.png | Detectados: 8 | Tiempo: 0.10s
+     Callo 1: 15435.0 px (38.587 mm2) | centroide=(78,134) | circ=0.246
+     Callo 2: 7760.0 px (19.400 mm2) | centroide=(348,68) | circ=0.384
+     Callo 3: 4041.0 px (10.103 mm2) | centroide=(204,83) | circ=0.456
+     Callo 4: 6740.0 px (16.850 mm2) | centroide=(176,190) | circ=0.505
+     Callo 5: 6257.0 px (15.643 mm2) | centroide=(343,213) | circ=0.436
+     Callo 6: 6369.0 px (15.923 mm2) | centroide=(69,337) | circ=0.464
+     Callo 7: 5995.0 px (14.988 mm2) | centroide=(332,335) | circ=0.531
+     Callo 8: 6420.0 px (16.050 mm2) | centroide=(211,369) | circ=0.381
+
+  Foto: p112.png | Detectados: 7 | Tiempo: 0.13s
+     Callo 1: 5887.0 px (14.718 mm2) | centroide=(219,83) | circ=0.536
+     Callo 2: 7373.0 px (18.433 mm2) | centroide=(356,96) | circ=0.529
+     Callo 3: 1950.0 px (4.875 mm2) | centroide=(67,69) | circ=0.268
+     Callo 4: 3889.0 px (9.723 mm2) | centroide=(375,222) | circ=0.641
+     Callo 5: 4563.0 px (11.408 mm2) | centroide=(232,225) | circ=0.571
+     Callo 6: 6263.0 px (15.658 mm2) | centroide=(375,349) | circ=0.587
+     Callo 7: 5827.0 px (14.568 mm2) | centroide=(86,362) | circ=0.492
+
+  Foto: p113.png | Detectados: 6 | Tiempo: 0.09s
+     Callo 1: 7285.0 px (18.213 mm2) | centroide=(89,98) | circ=0.535
+     Callo 2: 5880.0 px (14.700 mm2) | centroide=(407,106) | circ=0.376
+     Callo 3: 1883.0 px (4.708 mm2) | centroide=(286,120) | circ=0.236
+     Callo 4: 7348.0 px (18.370 mm2) | centroide=(381,231) | circ=0.546
+     Callo 5: 4504.0 px (11.260 mm2) | centroide=(82,357) | circ=0.533
+     Callo 6: 16850.0 px (42.125 mm2) | centroide=(301,379) | circ=0.307
+
+  Foto: p120.png | Detectados: 9 | Tiempo: 0.11s
+     Callo 1: 16423.0 px (41.057 mm2) | centroide=(342,140) | circ=0.260
+     Callo 2: 7618.0 px (19.045 mm2) | centroide=(66,89) | circ=0.438
+     Callo 3: 6013.0 px (15.033 mm2) | centroide=(190,88) | circ=0.581
+     Callo 4: 4218.0 px (10.545 mm2) | centroide=(191,214) | circ=0.449
+     Callo 5: 6248.0 px (15.620 mm2) | centroide=(70,234) | circ=0.484
+     Callo 6: 6669.0 px (16.672 mm2) | centroide=(87,330) | circ=0.459
+     Callo 7: 7024.0 px (17.560 mm2) | centroide=(360,338) | circ=0.591
+     Callo 8: 327.0 px (0.818 mm2) | centroide=(442,319) | circ=0.556
+     Callo 9: 6221.0 px (15.553 mm2) | centroide=(221,357) | circ=0.461
+
+  Foto: p121.png | Detectados: 9 | Tiempo: 0.09s
+     Callo 1: 5792.0 px (14.480 mm2) | centroide=(78,93) | circ=0.483
+     Callo 2: 4919.0 px (12.297 mm2) | centroide=(203,84) | circ=0.567
+     Callo 3: 5051.0 px (12.627 mm2) | centroide=(353,94) | circ=0.561
+     Callo 4: 1246.0 px (3.115 mm2) | centroide=(63,209) | circ=0.686
+     Callo 5: 979.0 px (2.448 mm2) | centroide=(197,207) | circ=0.696
+     Callo 6: 3193.0 px (7.982 mm2) | centroide=(337,220) | circ=0.559
+     Callo 7: 3505.0 px (8.763 mm2) | centroide=(207,354) | circ=0.513
+     Callo 8: 6054.0 px (15.135 mm2) | centroide=(51,363) | circ=0.520
+     Callo 9: 7243.0 px (18.108 mm2) | centroide=(337,358) | circ=0.561
+
+  Foto: p122.png | Detectados: 9 | Tiempo: 0.10s
+     Callo 1: 3549.0 px (8.873 mm2) | centroide=(114,78) | circ=0.494
+     Callo 2: 5471.0 px (13.678 mm2) | centroide=(377,88) | circ=0.577
+     Callo 3: 5062.0 px (12.655 mm2) | centroide=(233,88) | circ=0.404
+     Callo 4: 7862.0 px (19.655 mm2) | centroide=(380,193) | circ=0.527
+     Callo 5: 5024.0 px (12.560 mm2) | centroide=(107,219) | circ=0.503
+     Callo 6: 5424.0 px (13.560 mm2) | centroide=(251,229) | circ=0.343
+     Callo 7: 6365.0 px (15.912 mm2) | centroide=(383,331) | circ=0.582
+     Callo 8: 4625.0 px (11.562 mm2) | centroide=(248,334) | circ=0.580
+     Callo 9: 5981.0 px (14.953 mm2) | centroide=(109,347) | circ=0.449
+
+  Foto: p123.png | Detectados: 0 | Tiempo: 0.06s
+
+  Foto: p130.png | Detectados: 8 | Tiempo: 0.13s
+     Callo 1: 5001.0 px (12.502 mm2) | centroide=(336,103) | circ=0.390
+     Callo 2: 6999.0 px (17.497 mm2) | centroide=(52,112) | circ=0.493
+     Callo 3: 10158.0 px (25.395 mm2) | centroide=(206,165) | circ=0.251
+     Callo 4: 6447.0 px (16.117 mm2) | centroide=(331,240) | circ=0.508
+     Callo 5: 4200.0 px (10.500 mm2) | centroide=(60,234) | circ=0.427
+     Callo 6: 8396.0 px (20.990 mm2) | centroide=(210,367) | circ=0.535
+     Callo 7: 6117.0 px (15.293 mm2) | centroide=(361,368) | circ=0.562
+     Callo 8: 7187.0 px (17.968 mm2) | centroide=(75,364) | circ=0.466
+
+  Foto: p131.png | Detectados: 9 | Tiempo: 0.12s
+     Callo 1: 6761.0 px (16.902 mm2) | centroide=(361,103) | circ=0.583
+     Callo 2: 5937.0 px (14.843 mm2) | centroide=(89,96) | circ=0.456
+     Callo 3: 5744.0 px (14.360 mm2) | centroide=(216,108) | circ=0.590
+     Callo 4: 4231.0 px (10.578 mm2) | centroide=(381,201) | circ=0.486
+     Callo 5: 6570.0 px (16.425 mm2) | centroide=(202,236) | circ=0.454
+     Callo 6: 5673.0 px (14.183 mm2) | centroide=(84,228) | circ=0.539
+     Callo 7: 6612.0 px (16.530 mm2) | centroide=(226,330) | circ=0.577
+     Callo 8: 6775.0 px (16.938 mm2) | centroide=(361,344) | circ=0.595
+     Callo 9: 4682.0 px (11.705 mm2) | centroide=(77,368) | circ=0.467
+
+  Foto: p132.png | Detectados: 4 | Tiempo: 0.14s
+     Callo 1: 5643.0 px (14.107 mm2) | centroide=(93,94) | circ=0.635
+     Callo 2: 4249.0 px (10.623 mm2) | centroide=(321,116) | circ=0.406
+     Callo 3: 3247.0 px (8.117 mm2) | centroide=(93,254) | circ=0.312
+     Callo 4: 2543.0 px (6.357 mm2) | centroide=(94,355) | circ=0.513
+
+  Foto: p133.png | Detectados: 7 | Tiempo: 0.12s
+     Callo 1: 12873.0 px (32.182 mm2) | centroide=(139,97) | circ=0.330
+     Callo 2: 9345.0 px (23.363 mm2) | centroide=(341,104) | circ=0.555
+     Callo 3: 8509.0 px (21.273 mm2) | centroide=(54,222) | circ=0.442
+     Callo 4: 8867.0 px (22.168 mm2) | centroide=(206,221) | circ=0.527
+     Callo 5: 1883.0 px (4.708 mm2) | centroide=(337,224) | circ=0.558
+     Callo 6: 16133.0 px (40.333 mm2) | centroide=(135,363) | circ=0.328
+     Callo 7: 7816.0 px (19.540 mm2) | centroide=(335,376) | circ=0.468
+
+RESUMEN GLOBAL:
+  Imágenes analizadas   : 16
+  Total de callos       : 112
+  Media/Mediana         : 7.00 / 8.00
+  Desviación típica     : 2.45
+  Mín/Máx detectados     : 0 / 9
+  Imágenes vacías       : 1
+  Tiempo total           : 2.7s
+  Top 3 con más callos:
+    - p100.png: 9
+    - p101.png: 9
+    - p120.png: 9
+----------------------------------------------------------------

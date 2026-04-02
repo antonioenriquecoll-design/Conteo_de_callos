@@ -1,0 +1,190 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "semilla",
+      "points": [
+        [
+          207.0,
+          74.0
+        ],
+        [
+          214.0,
+          79.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGAQAAAADWfuJWAAAAFElEQVR4nGOoYfjH8J+JgYmBwQ4AFZkCvDHpCmEAAAAASUVORK5CYII="
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          353.0,
+          71.0
+        ],
+        [
+          359.0,
+          78.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAcAAAAIAQAAAAAdf9irAAAAGElEQVR4nGOoYfjDxMDwj+kfQw0TA4MBACbMBCfhxq/rAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          406.0,
+          325.0
+        ],
+        [
+          415.0,
+          332.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAIAQAAAADogVMbAAAAIElEQVR4nGNgZGDiO8BkwMDkwMD4/yATAwMTwwGGGgYALUQERw7JzKkAAAAASUVORK5CYII="
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          65.0,
+          341.0
+        ],
+        [
+          72.0,
+          346.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGAQAAAADWfuJWAAAAFElEQVR4nGOoY/jPxMDEwMTAUAMADw0CAFg5W4MAAAAASUVORK5CYII="
+    },
+    {
+      "label": "callo",
+      "points": [
+        [
+          2.0,
+          18.0
+        ],
+        [
+          94.0,
+          123.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAF0AAABqAQAAAAD2dWB7AAABP0lEQVR4nJWUPU7DMBiGH7uR0qESPQH0CB3ZyAE4BEexxEU4itkYewCGjIwZGCJU8jHEtd+2MQIPkZ+8fr8f2wkAtADgAbgfBLoNZZiJAjGDg12Cu6CGwZmlZSs2J6MHVu8ZmuQGPOvi9lCFLVCSAtAvLNspnCmdkDMzy4UioRNtAXxTL0chdbC+VvYLngbAd/KyeB5CBkd8KsoztwUecSHD/iJp56zAa7Xq3W97/TcIVSVWlK3vVflQOJb52k+qmML5AQ8KY56PF1WX2MOFMimURL2HcIJY3YNQU6y6b5PCJ4ClMahyqAaIOHKlDo9bru2sn/8fsCl8KYwKB4UIum+ihOs8Ubk1M7MJcKTuvpvZEwCOKVqUAPPnPyYYSI/lfl4SjKq2ZvMPzqcUGaa56RkswFs23ZgFiSAXyKVr9gOAHF6p3zSKkAAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "callo",
+      "points": [
+        [
+          4.0,
+          149.0
+        ],
+        [
+          102.0,
+          231.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAGMAAABTAQAAAACjOoSVAAABKUlEQVR4nI2TOW7DMBBFn8dC6MKAfQPrGCkCRDeLbpArqcwxlC4lSyEgOC64DmQDZkM+/c9ZSAoAbvRDfZoF4MCpIykeARgYOjoZDUPXp5pbxkIDbL9TUy+6qca0PqB5BpCjiXI2dDU0Gpp6OmiJ/aTqHc0vO6eXnblATWPDAZIS8ca7B1lKndMZuGXrrAriW8TFZPhAtlbMsWnjrpZZQl5dgalqJ2CUfAM4ANHZ9LAYWhuswp/RQoNFiJjxpWXsT6mmUIBLsn2nh+FUVTU6DW1fDGlfShii6VYJfYbpJ31NR5+drUOhS49A12GNshmq2gjgjbY+dkJJYzWAT1VV9tpjas4HdRqKhkIlT26oar7SZuK6+m9KivDfKFIuXwCd+4fBzdy983lxB20gd+ExGrdhAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "callo",
+      "points": [
+        [
+          191.0,
+          178.0
+        ],
+        [
+          241.0,
+          252.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADMAAABLAQAAAAD1q4IrAAAAs0lEQVR4nHWSOw6DMBAFB4MUF5HCDeIj5AgcjaNxFEpK0kVRxEvhFwSGVKN5Xn92ZeoZgNDEzNhkEjLbys6eiX7nI6d13DQUeSq83dVfpNlcnFez169m/asfCBEg2dvi/lh4U3ggvOxxm1eE9tDv1vvDPDI6M/2dy2S+ARiL/cM6h1qS5PzHhdAAfIr3vggPe7fNZ5AkjfZxnVsl99mf9CFzMT/mZKbMJ8BdykfclnxC/i9fY2kvhAmCk70AAAAASUVORK5CYII="
+    },
+    {
+      "label": "callo",
+      "points": [
+        [
+          201.0,
+          321.0
+        ],
+        [
+          261.0,
+          400.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAD0AAABQAQAAAACCc0DAAAAA3klEQVR4nH2QO27DMBBEn9YErC4u0zlHyA1E+GLREXIkHYVlSpWEIWlSLNfOx/I2fJjZLzkLAAwmp0FzKL1DJoXSQtpC6X5bBowBOeAt4BTQByQAG2/l8l42XZtSvsJk0L9ZEWeNrsx3KzvUyDmoPCw38HMSw8VXREUzYB2vnmMk3/YgqXYb5pt33iel1tB6Ru/8TuYoSVJ5OBSAk/V71g36fQur+9YTWPytz3JW1gGY4aMySMWYKkD5+c8lIFMAYwVgMhbu8SLt7/PXqmwOSygrS8vJUVXi8OPclOsn3yA0R0DoyxXlAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "callo",
+      "points": [
+        [
+          309.0,
+          184.0
+        ],
+        [
+          377.0,
+          289.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAEUAAABqAQAAAADCDKFnAAABJklEQVR4nI2SwW3DMAxFnxij1THH3qJRPEpH6Ab2CB2ho+TYMdxO4AI9GEUg5kCJVmIHqAEDT5/i16cgACAslO+QEaMujFJVnPodrVJ0eiMFM878SN0TjTrveIHFKMFs1MNkJqolS4A/I4HFqIN323ZS3clStUQu1PNLNZ5MC/BRxlYtvR2VInkz5ZFLocTi1dmp2DGoZ1lpzZfrSpdNNbDVxKm7mdIoEl17Hv1W1lTRKLV3L/b3rV/YJm1pdHq18Kp6acO1HaEYiqtttXOKTsdH5/6bRuCkqvcvYob1RbQdeUe77GiL55tdm273JYAzwKCqGSCUC0KeijESAT6pQQEkAV8A0ruhqurkCVbam/z8qMpQjkAoDxE5w7dr072fHs0OOFgDV+dFXhtmVmLBAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "callo",
+      "points": [
+        [
+          318.0,
+          297.0
+        ],
+        [
+          374.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADkAAABXAQAAAACWndACAAAA6UlEQVR4nI2RO27DMBBEH5cCwi4u3UU3iY+iI+QIPJqPojIlSwcQNCm4a8imA4TVcHZn9gfwBmDA+epgmelPrTMJzzFKB1MwZyZXBbPET9oBczUWTj1cwdzmKN8G5g72gdGYXF/JK8B79HOK0AyduTz5JAQyZ9KjjyStYFToXh+SGkCSdBsamw6Ndf32vJa/Rh7BuDGA7YEpwC0mbWAsh+JawXIkTwFKgFOAOcBFxZ13P49a9iW0KLpGBbLUwARQgC9yn3kmqx/BwctJpyOT/rOWemfcWRH6wfqNvzEQsGJAhSsAn1LodvgFcJdXZmFi1KUAAAAASUVORK5CYII="
+    }
+  ],
+  "imagePath": "p110.png",
+  "imageData": null,
+  "imageHeight": 403,
+  "imageWidth": 442
+}

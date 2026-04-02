@@ -1,0 +1,172 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "semilla",
+      "points": [
+        [
+          55.0,
+          85.0
+        ],
+        [
+          62.0,
+          92.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIAQAAAADsdIMmAAAAGElEQVR4nGOwYXJiYmT4z/SfiYGhhkEAABi9AxLLAuXrAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          206.0,
+          79.0
+        ],
+        [
+          212.0,
+          86.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAcAAAAIAQAAAAAdf9irAAAAGElEQVR4nGOwYXJiYmD4x8TAxMBQx8QAABGqAgVJZTl4AAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          359.0,
+          65.0
+        ],
+        [
+          365.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAcAAAAKAQAAAABQt3mgAAAAE0lEQVR4nGOwYHJh+MfEgIAMNQAYrgIFaRAPAwAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          350.0,
+          206.0
+        ],
+        [
+          357.0,
+          214.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAJAQAAAAAnKFCDAAAAGklEQVR4nGOwYWJicmRiYPjPxMBQz/SfwQYAFpADQzkLfxUAAAAASUVORK5CYII="
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          208.0,
+          201.0
+        ],
+        [
+          215.0,
+          208.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIAQAAAADsdIMmAAAAGElEQVR4nGOwY3JgYmT4z8TAxMBQx2ADABH6AkFJalgsAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          70.0,
+          194.0
+        ],
+        [
+          77.0,
+          202.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAJAQAAAAAnKFCDAAAAGklEQVR4nGNQYIpg+MPwj+E/Qz0TA4M9gzwALIgEU18aD6wAAAAASUVORK5CYII="
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          85.0,
+          331.0
+        ],
+        [
+          93.0,
+          339.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJAQAAAADI6ju9AAAAIElEQVR4nAXBMREAIAwAsdwbwRpCGOq8JI6uTCOsaHk+L4MEBkFmbAgAAAAASUVORK5CYII="
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          209.0,
+          329.0
+        ],
+        [
+          214.0,
+          336.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAAIAQAAAADyvbOVAAAAE0lEQVR4nGOoYPjDxACFf5h+AAAYJAN1WgzBCAAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "semilla",
+      "points": [
+        [
+          351.0,
+          335.0
+        ],
+        [
+          359.0,
+          343.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJAQAAAADI6ju9AAAAIUlEQVR4nAXBQQEAIAgEsHGp/VHNCCYCN4cRrOoKuUKeD0MgBJEHFdOKAAAAAElFTkSuQmCC"
+    }
+  ],
+  "imagePath": "p123.png",
+  "imageData": null,
+  "imageHeight": 403,
+  "imageWidth": 458
+}
